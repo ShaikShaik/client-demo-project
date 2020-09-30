@@ -86,9 +86,9 @@
 	    <maven.tomcat.url>http://172.20.15.101:8088/manager/text</maven.tomcat.url>
          </properties>
 	  <scm>
-		<url>https://github.com/NagireddyGuduru/client-demo-project</url>
-		<connection>scm:git:https://github.com/NagireddyGuduru/client-demo-project.git</connection>
-		<developerConnection>scm:git:https://github.com/NagireddyGuduru/client-demo-project.git</developerConnection>
+		<url>https://github.com/ShaikShaik/client-demo-project</url>
+		<connection>scm:git:https://github.com/ShaikShaik/client-demo-project.git</connection>
+		<developerConnection>scm:git:https://github.com/ShaikShaik/client-demo-project.git</developerConnection>
 	    <tag>HEAD</tag>
   </scm>
 	<profiles>
